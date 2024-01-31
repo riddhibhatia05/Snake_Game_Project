@@ -2,6 +2,7 @@
 This Python code implements a classic Snake game using Pygame. Players control a snake to eat fruits, growing longer while avoiding collisions. The game features real-time scoring and a graphical interface.
 
 Project Name: Snake Game 
+
 Project Objective:
 This code aims to implement a simple Snake game using the Pygame library in Python. The player controls a snake that moves around the game window, eating randomly spawned fruits to increase its length and score. The game continues until the snake collides with the window boundaries or itself.
 
